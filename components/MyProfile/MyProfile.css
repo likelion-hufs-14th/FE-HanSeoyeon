@@ -1,0 +1,27 @@
+.myprofile-container {
+  border: 1px solid gray;
+  padding: 15px;
+  margin-bottom: 15px;
+  width: 200px;
+  text-align: center;
+}
+
+.myprofile-position {
+  color:gray;
+  font-size: 12px;
+
+}
+
+.myprofile-name {
+  color: darkblue;
+
+}
+
+.myprofile-writing{
+  font-size: 14px;
+}
+
+.myprofile-recentact{
+  font-size: 14px;
+  color: darkblue
+}

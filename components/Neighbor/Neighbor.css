@@ -1,0 +1,20 @@
+.neighbor-container {
+  border: 1px solid gray;
+  width: 200px;
+  text-align: center;
+  padding: 15px;
+}
+
+.neighbor-title {
+  font-size: 14px;
+  font-weight: bold;
+  color: darkblue;
+}
+
+
+
+.neighbor-container img {
+  border-radius: 50%;
+  border: 1px solid rgb(40, 40, 53);
+  margin: 2px 2px 2px 2px
+}

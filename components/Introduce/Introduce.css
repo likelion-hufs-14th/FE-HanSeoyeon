@@ -1,0 +1,21 @@
+.meotsa-introduce {
+  align-items: left;
+  padding: 10px;
+  border: 1px solid rgba(0, 45, 86, 1);
+}
+
+.meotsa-logo {
+  width: 80px;
+  height: 45px;
+  margin: 30px 10px 10px 10px;
+
+}
+
+.meotsa-introduce-text {
+  flex: 1;
+}
+
+
+.meotsa-sec-container{
+    display: flex;
+}
